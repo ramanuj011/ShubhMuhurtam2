@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shubh Muhurtam</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="about_content">Welcome to Shubh Muhurtam</string>
+    <string name="about_fragment">Welcome to Shubh Muhurtam
+        \n World-class food, superb presentation, premium hosting services and locations of your choice all join together to make one name Ardor Catering. Whether it is wedding affairs or poolside parties, theme parties or corporate events, Shubh Muhurat event planner and catering is one such company that can satisfy your taste buds with an exceptional service beyond a doubt. We can make your any occasion amusing and lively with our alluring assortment of cuisines and above all the fascinating services that we administer. this company is run by the team of IHM AHMEDABAD Graduate and they all have a good experience in the hospitality world like taj , intercontinental,shangrila,marriot .
+        \n your event provide total event management including venue finding, accommodation ,creative designs, staging , lighting, sound, audio visual, decor, catering drinks, entertainment , hosting ,transport, signage and logistics.
+           \n Our team is always driven by a continuous desire to fulfill your requirements to the best of our resources and capabilities. The work-force at our disposal is a fine mix of experience and youth to strike the right balance between workers with different job skill
+      </string>
+    <string name="catering_fragment">Catering page</string>
+    <string name="contact_us_fragment">Contact us</string>
+    <string name="team_fragment"><p><strong>Our team consist of pioneer of various field with experience and expertise to provide you unmatched quality service.</strong></p>
+      <p>Following are our corporate team members \n
+        </p></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
